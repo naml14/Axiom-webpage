@@ -1,0 +1,19 @@
+# Installed modules — will be installed fresh inside the container
+node_modules/
+
+# Agent Teams Lite — internal tooling, not needed in image
+.atl/
+
+# Git metadata
+.git/
+.gitignore
+
+# Environment secrets
+.env
+.env.*
+
+# Editor & OS noise
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
