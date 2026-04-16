@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+
+# Bun lockfile
+bun.lock
+
+# ATL (Agent Teams Lite) directory
+.atl/
+
+# Build output
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS files
+.DS_Store
+Thumbs.db
