@@ -1,9 +1,6 @@
 # Dependencies
 node_modules/
 
-# Bun lockfile
-bun.lock
-
 # ATL (Agent Teams Lite) directory
 .atl/
 
